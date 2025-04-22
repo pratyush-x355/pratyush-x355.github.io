@@ -1,12 +1,13 @@
+---
 title: "Pratyusa Kumar Tripathy"
 tagline: "Quant | CFA | AI/ML | Risk Modeling"
-description: >-
-  Portfolio showcasing quantitative finance work, investment models, and AI-driven financial research.
+description: "Portfolio showcasing quantitative finance work, investment models, and AI-driven financial research."
 url: "https://pratyusa-tripathy.github.io"
 baseurl: ""
 lang: "en"
 theme_mode: "auto"
 
+# Author Info
 author:
   name: "Pratyusa Kumar Tripathy"
   avatar: "/assets/img/profile.jpg"
@@ -22,3 +23,41 @@ footer:
       url: mailto:pratyusa.tripathy@iiml.org
     - title: LinkedIn
       url: https://linkedin.com/in/pratyusatripathy
+    - title: GitHub
+      url: https://github.com/pratyusa-tripathy
+
+# Collections for blog and project cards
+collections:
+  posts:
+    output: true
+  projects:
+    output: true
+
+# Social previews and SEO
+seo:
+  type: "Profile"
+  twitter:
+    card: "summary_large_image"
+    username: ""
+
+# Navigation menu
+nav:
+  - title: "Home"
+    url: "/"
+  - title: "Projects"
+    url: "/projects/"
+  - title: "Resume"
+    url: "/resume.pdf"
+  - title: "Blog"
+    url: "/posts/"
+
+# Analytics (Optional)
+google_analytics: ""
+
+# Plugin configuration (Jekyll)
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-archives
