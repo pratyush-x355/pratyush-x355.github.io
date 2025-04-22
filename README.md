@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Pratyusa Kumar Tripathy
+# 👋 Hi !
 
 🎯 **Quantitative Researcher | CFA L3 | Vice President at JPMorgan**  
 📊 Passionate about building scalable, AI-powered solutions for portfolio risk & optimization  
@@ -48,7 +48,7 @@
 ## 📬 Get in Touch
 - 💼 [LinkedIn](https://www.linkedin.com/in/pratyusatripathy/)
 - 📧 pratyusa.tripathy@iiml.org
-- 🗂 [Resume](https://github.com/pratyusa-tripathy/pratyusa-tripathy.github.io/blob/main/resume.pdf)
+- 🗂 [Resume](https://github.com/pratyusa-tripathy/pratyusa-tripathy.github.io/assets/Pratyusa_Tripathy_April_2025.pdf)
 
 ---
 
