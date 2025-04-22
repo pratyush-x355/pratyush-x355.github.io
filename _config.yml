@@ -1,0 +1,25 @@
+title: "Pratyusa Kumar Tripathy"
+description: "Quantitative Finance | Risk Modeling | CFA L3 | AI/ML in Investments"
+theme: jekyll-theme-minimal
+logo: /assets/img/profile.jpg
+show_downloads: false
+
+# Social links
+social_links:
+  linkedin: https://www.linkedin.com/in/pratyusatripathy/
+  github: https://github.com/pratyusa-tripathy
+  email: pratyusa.tripathy@iiml.org
+
+navigation:
+  - title: "Home"
+    url: /
+  - title: "Projects"
+    url: /projects
+  - title: "Resume"
+    url: /resume.pdf
+  - title: "Blog"
+    url: /blog
+
+url: "https://pratyusa-tripathy.github.io"
+author: "Pratyusa Kumar Tripathy"
+google_analytics: ""  # Add if needed
