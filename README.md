@@ -1,6 +1,6 @@
 # 👋 Hi !
 
-🎯 **Quantitative Researcher | CFA L3 | Vice President at JPMorgan**  
+🎯 **Quantitative Researcher | CFA Charterholder | Vice President at JPMorgan**  
 📊 Passionate about building scalable, AI-powered solutions for portfolio risk & optimization  
 🏦 6+ years experience across Quantitative Model Validation, Risk Modeling, and Investment Strategy
 
