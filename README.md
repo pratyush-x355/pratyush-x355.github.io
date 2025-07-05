@@ -48,7 +48,7 @@
 ## 📬 Get in Touch
 - 💼 [LinkedIn](https://www.linkedin.com/in/pratyusatripathy/)
 - 📧 pratyusa.tripathy@iiml.org
-- 🗂 [Resume](https://github.com/pratyusa-tripathy/pratyusa-tripathy.github.io/assets/Pratyusa_Tripathy_April_2025.pdf)
+- 🗂 [Resume](https://github.com/pratyusa-tripathy/pratyusa-tripathy.github.io/assets/Pratyusa_Resume_July_2025.pdf)
 
 ---
 
